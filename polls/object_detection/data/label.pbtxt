@@ -1,0 +1,13 @@
+item {
+  id: 1
+  name: 'motor'
+}
+item {
+  id: 2
+  name: 'turuncu'
+}
+item {
+  id: 3
+  name: 'sari'
+}
+
